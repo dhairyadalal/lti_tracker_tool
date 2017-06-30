@@ -1,0 +1,20 @@
+
+- add refresh button to add new grant page
+
+- add download button to Employee overview
+
+- wrap create paid and upcoming payments code in functions
+
+- add complex case for diff vesting schedules
+
+  
+- need validation on new employee
+  - check if empl exists and prompt warning
+  - prevent duplicate grants
+
+- need validation on new grant
+  - prevent duplicate grants
+  
+  
+- need to handle terminated employees
+  - potentital solution: set grant exp date to termination date
